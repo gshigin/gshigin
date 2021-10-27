@@ -1,8 +1,8 @@
 - 🤙  Hello there, I’m @gshigin.
 
-- 🤓  Currently, I am a 3rd-year student of the Faculty of Space Research at Moscow State University.
+- 🤓  Currently, I am a 4rd-year student of the Faculty of Space Research at Moscow State University.
 
-- 📊 At the moment, I'm immersed in DS and ML and am building my own library of methods for working with data.
+- 📊 At the moment, I'm immersed in DS and ML.
 
 - 📧 If for some God-only reason you need to contact me, you can write here 👉 gs.shigin@students.cosmos.msu.ru
 
