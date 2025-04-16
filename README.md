@@ -40,5 +40,13 @@ Hey there! I'm a passionate **C++ developer** who loves good architecture, high-
 
 ---
 
+### 🎯 Hobbies
+- 🎾 Playing squash
+- 🚴‍♂️ Riding bike
+- 🎨 Painting Warhammer miniatures
+- 📸 Shooting on 35mm film
+
+---
+
 
 
