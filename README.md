@@ -3,7 +3,7 @@ gshigin/gshigin is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🧠 Gleb Shigin aka glebundiy
+## 🤓 Gleb Shigin
 
 ### 💻 C++ Developer | Code Lover | Performance Enjoyer
 
@@ -12,22 +12,22 @@ Hey there! I'm a passionate **C++ developer** who loves good architecture, high-
 ---
 
 ### 🛠️ Tech Stack
-- 📦 **C++17/20**, **CMake**
-- 🚀 **Performance Optimization**, **System Architecture**
+- 📦 **C++20/23**, **CMake**
+- 🚀 **Performance Optimization**, **Code Architecture**
 - 🔬 **Profiling**: `Tracy`
 - 🧪 **Testing**: `Catch2`, `Google Test`, `Boost.Test`, `Google Benchmark`
 
 ---
 
-### 🧩 Projects
+### 💼 Projects
 
 #### 🎮 [YAFTH — Yet Another Fallout Terminal Hacking ~~Game~~](https://github.com/gshigin/yet-another-fallout-terminal-hacking-game)
-> A terminal app simulating the Fallout hacking mini-game. C++ + FTXUI.
+> A terminal app simulating the Fallout hacking mini-game. FTXUI and C++.
 
-#### 🧵 OpenKTG (WIP)
-> Refactoring and optimizing a procedural text generator inspired by the legendary in narrow circles Farbrausch demo crew. Still early in development.
+#### 🚧 OpenKTG (WIP)
+> Refactoring and optimizing a procedural texture generator inspired by the legendary in narrow circles Farbrausch demo crew. Still early in development.
 
-#### ☸️ [Deckhouse Prom++](https://github.com/deckhouse/prompp)
+#### 📊 [Deckhouse Prom++](https://github.com/deckhouse/prompp)
 > Contributor to performance-critical parts of the Prom++ project as part of my main job.
 
 ---
