@@ -30,23 +30,5 @@ Hey there! I'm a passionate **C++ developer** who loves good architecture, high-
 #### 📊 [Deckhouse Prom++](https://github.com/deckhouse/prompp)
 > Contributor to performance-critical parts of the Prom++ project as part of my main job.
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gshigin&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshigin&layout=compact&theme=tokyonight" height="160">
-</p>
-
----
-
-### 🎯 Hobbies
-- 🎾 Playing squash
-- 🚴‍♂️ Riding bike
-- 🎨 Painting Warhammer miniatures
-- 📸 Shooting on 35mm film
-
----
-
 
 
